@@ -2,7 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [About the code](#about-the-code)
-* [Setup](#setup)
+* [More info](#more-info)
 
 ## General info
 The goal of this task was to prepare a simple command line interface which provides the following commands:
@@ -23,13 +23,26 @@ The last command starts the HTTP server which serves the provided HTML file.
 	
 ## About the code
 The code uses the following libraries:
+
 "fmt"
+
 "os"
+
 "regexp"
+
 "net/http"
+
 "bufio"
+
 "log"
-	
-## Setup
-To run this project, install it locally using npm:
+
+The code consists of two functions: 
+
+- main - responsible for handling the arguments passes to the console
+- server - responsible for starting the HTTP server and sending the HTML file to it 
+
+##More info
+
+For the proper working of the program the HTML file of the given name is needed! 
+
 
