@@ -8,9 +8,9 @@
 The goal of this task was to prepare a simple command line interface which provides the following commands:
 
 -- version
-![obraz](https://user-images.githubusercontent.com/45372078/105532763-8eee8b80-5ceb-11eb-9625-d26315260ab2.png)
+![obraz]()
 --help
-
+![help](https://user-images.githubusercontent.com/45381820/112763645-9b51d600-9005-11eb-9352-95249c17c473.png)
 <index.html>
 
 The last command starts the HTTP server which serves the provided HTML file.
