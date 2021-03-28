@@ -41,7 +41,7 @@ The code consists of two functions:
 - main - responsible for handling the arguments passes to the console
 - server - responsible for starting the HTTP server and sending the HTML file to it 
 
-##More info
+## More info
 
 For the proper working of the program the HTML file of the given name is needed! 
 
