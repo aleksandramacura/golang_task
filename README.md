@@ -8,7 +8,7 @@
 The goal of this task was to prepare a simple command line interface which provides the following commands:
 
 -- version
-
+![obraz](https://user-images.githubusercontent.com/45372078/105532763-8eee8b80-5ceb-11eb-9625-d26315260ab2.png)
 --help
 
 <index.html>
