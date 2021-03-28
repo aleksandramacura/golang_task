@@ -1,21 +1,29 @@
+### golang_task
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [About the code](#about-the-code)
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+The goal of this task was to prepare a simple command line interface which provides the following commands:
+
+-- version
+
+--help
+
+<index.html>
+
+The last command starts the HTTP server which serves the provided HTML file.
 	
 ## About the code
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+The code uses the following libraries:
+"fmt"
+"os"
+"regexp"
+"net/http"
+"bufio"
+"log"
 	
 ## Setup
 To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
